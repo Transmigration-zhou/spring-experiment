@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="task1.1" />
+        <module name="task4.1" />
+        <module name="task1.2" />
+        <module name="task2.1" />
+        <module name="task3.1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="task3.1-JPA" target="8" />
+      <module name="task3.2" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
